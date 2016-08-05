@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+  "name": "External Messaging Master",
+  "version": "1.0.0",
+
+  "description": "This is the extension that will control the External Messaging Slave extension",
+
+  "background": {
+    "scripts": ["background.js"]
+  },
+
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA3Rmyj15gDoMLa3qJS4t7TetwVwfpotO7kuYwatTV3JAr+bIZXecagnznpMQejks5VZRedphSvE+DHrlTEtT0WsTpopZoC+NJZKE5dpnvqqrxXlmiTqE2UDowhuyGrVTG/c3oLUnYeJyNb2K5KnMgOQ8x1th2+TrvllkI9Kay4+m/FQLMR2GP/txot/vcBhiNzEmK4HxeZwTd1ygzYPXActnJYhoJmbUuIfgbOWffZMhkSLQE3a7EF+kiP07kTIn3RMF9itn1VYCPv5d2brbWfjr4dGbLMMpcdm0m/vgmefnCs5pAdch40Uq9qwqmq+85sU+a9cSP1sRC86otTGM09QIDAQAB"
+}
